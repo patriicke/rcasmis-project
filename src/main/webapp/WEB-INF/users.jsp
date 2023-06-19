@@ -16,13 +16,6 @@
         <div class="w-full flex justify-between items-center">
             <span class="font-bold text-2xl">Users</span>
             <div class="flex items-center">
-                <a class="mx-2" href="download-report?data=users">
-                    <button
-                            class="my-2 mx-2 text-white flex items-center justify-center font-semibold cursor-pointer bg-blue-700 rounded-lg px-4 py-2">
-                        <box-icon name="download" color="white" class="mr-2"></box-icon>
-                        Download Excel
-                    </button>
-                </a>
                 <a class="my-2 text-white flex items-center justify-center font-semibold cursor-pointer bg-blue-700 rounded-lg px-4 py-2"
                    href="register?page=createuser">
                     <box-icon name="plus" color="white"></box-icon>
